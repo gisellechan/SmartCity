@@ -1,6 +1,6 @@
 /**
  * Sensors blocks
  */
-//% weight=100 color=#FFB01B icon="\uf1ad"
+//% weight=100 color=#024AB4 icon="\uf1ad"
 namespace SmartCity {
 }

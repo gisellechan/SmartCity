@@ -6,15 +6,13 @@
 Welcome to SmartCity's documentation!
 =====================================
 
+Category:
+^^^^^^^^^
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    doc01
+    doc02
+ 
+ 

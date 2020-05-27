@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'smartcity quick start guide'
+project = 'SmartCity'
 copyright = '2020, Smarthon'
 author = 'Smarthon'
 
 # The full version, including alpha/beta/rc tags
-release = '1'
+release = '0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -30,7 +30,8 @@ release = '1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['recommonmark']
+extensions = [
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
